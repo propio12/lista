@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="6bafadae3718b9e38cd19b9140564e8d",CANAL TDT
+udp://@224.2.2.2:2000
