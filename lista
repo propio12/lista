@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="6bafadae3718b9e38cd19b9140564e8d",CANAL TDT
+#EXTINF:-1 tvg-id="6bafadae3718b9e38cd19b9140564e8d",CANAL 1
 udp://@224.2.2.2:2000
+#EXTINF:-1 tvg-id="6bafadae3718b9e38cd19b9140564e8d",CANAL 2
+udp://@224.2.2.2:2002
+#EXTINF:-1 tvg-id="6bafadae3718b9e38cd19b9140564e8d",CANAL 3
+udp://@224.2.2.2:2004
